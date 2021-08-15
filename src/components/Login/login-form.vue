@@ -6,7 +6,9 @@
         <div :class="styles['input-wrapper']">
             <v-text-field label="Login" outlined loading="true"></v-text-field>
         </div>
-        <div :class="styles['input-wrapper']"></div>
+        <div :class="styles['input-wrapper']">
+            <input type="text" />
+        </div>
     </form>
 </template>
 
