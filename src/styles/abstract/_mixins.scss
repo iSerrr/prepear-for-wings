@@ -1,0 +1,7 @@
+@mixin primary-bg {
+  background-image: -webkit-radial-gradient(circle, #2c303b, #6f85ad);
+  background-image: -moz-radial-gradient(circle, #2c303b, #6f85ad);
+  background-image: -o-radial-gradient(circle, #2c303b, #6f85ad);
+  background-image: radial-gradient(circle, #2c303b, #6f85ad);
+  background-repeat: no-repeat;
+}
